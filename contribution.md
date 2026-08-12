@@ -1,1 +1,3 @@
-# I am Olayinka, the author of this contribution
+## Contributor B
+- Practiced merging
+- Improved Git workflow understanding
